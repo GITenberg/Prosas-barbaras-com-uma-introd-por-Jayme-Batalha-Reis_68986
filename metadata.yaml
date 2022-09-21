@@ -1,0 +1,44 @@
+_repo: Prosas-barbaras-com-uma-introd-por-Jayme-Batalha-Reis_68986
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Reis, Jaime Batalha
+    gutenberg_agent_id: '55043'
+    url: http://www.gutenberg.org/2009/agents/55043
+creator:
+  author:
+    agent_name: Queirós, Eça de
+    aliases:
+    - Queiroz, José Maria Eça de
+    - Queiroz, Eca de
+    - Queiros, Jose Maria Eca de
+    - Queiroz, Eça de
+    - Queiroz, Jose Maria Eca de
+    - Queirós, José Maria Eça de
+    - Eça de Queirós, José María
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '4852'
+    url: http://www.gutenberg.org/2009/agents/4852
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queir%C3%B3s
+description: ''
+gutenberg_issued: '2022-09-14'
+identifiers:
+  gutenberg: '68986'
+language: pt
+pgterms:marc905: 20141206031856queirs
+pgterms:marc906: '1903'
+pgterms:marc907: PT
+production_note: Rita Farinha, Alberto Manuel Brandão Simões and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: Portugal :Livraria Chardron,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Prosas barbaras: com uma introd. por Jayme Batalha Reis.'
+url: http://www.gutenberg.org/ebooks/68986
