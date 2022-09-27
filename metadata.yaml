@@ -5,6 +5,9 @@ contributor:
     agent_name: Reis, Jaime Batalha
     gutenberg_agent_id: '55043'
     url: http://www.gutenberg.org/2009/agents/55043
+covers:
+- cover_type: archival
+  image_path: 68986-h/images/cover.jpg
 creator:
   author:
     agent_name: Queirós, Eça de
@@ -24,6 +27,8 @@ creator:
     - https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
     - https://en.wikipedia.org/wiki/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queir%C3%B3s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68986#Prosas-barbaras-com-uma-introd-por-Jayme-Batalha-Reis
 gutenberg_issued: '2022-09-14'
 identifiers:
   gutenberg: '68986'
